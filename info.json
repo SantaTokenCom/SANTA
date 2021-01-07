@@ -1,0 +1,21 @@
+{
+    "name": "Santa Token",
+    "website": "https://santatoken.com",
+    "source_code": "https://github.com/SantaTokenCom/SANTA",
+    "short_description": "Santa Token is a holiday themed NFT Marketplace",
+    "description": "Santa Token is a community token focused on sharing holiday themed NFT's
+    and creating holiday fun for community members.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/SantaTokenCom",
+            "handle": "SantaTokenCom"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/FUN_TOKEN_BSC",
+            "handle": "Santa"
+        }
+    ],
+    "explorer": "https://etherscan.io/token/0x8c168Ef06b8BAf8Ad2236eEf2286f7870ad50F9B"
+}
